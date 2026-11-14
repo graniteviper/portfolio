@@ -335,7 +335,9 @@ You are now operating with elevated privileges.`),
       },
       {
         command: "",
-        output: formatText(`Initializing terminal session...
+        output: formatText(`Hello There!!
+
+Initializing terminal session...
 Connecting to portfolio server...
 Connection established.
 
